@@ -1,0 +1,14 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-content{
+    color: #ffffff;
+}
+
+.oligo.waves-effect.waves-light.btn-large {
+    height: auto !important;
+
+}

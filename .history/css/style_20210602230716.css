@@ -1,0 +1,17 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-content{
+    color: #ffffff;
+}
+
+.oligo.waves-effect.waves-light.btn-large {
+    height: auto !important;
+    min-height: 40px;
+    line-height: 50px;
+    padding-top: 20px;
+    padding-bottom: 8px;
+}

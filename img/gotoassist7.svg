@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="43px" viewBox="0 0 52 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>slack-integration_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="RescueAssist-Web-2.0-Temp-Launch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RescueAssist-Web-Mockup-Classic" transform="translate(-1020.000000, -1576.000000)">
+            <g id="Homepage">
+                <g id="Module-2" transform="translate(82.000000, 1123.000000)">
+                    <g id="Stacked-Image-Text-2---Gray-" transform="translate(0.000000, 454.000000)">
+                        <g id="BG-Row-3">
+                            <g id="Left-Section" transform="translate(817.000000, 0.000000)">
+                                <g id="slack-integration_icon" transform="translate(122.000000, 0.000000)">
+                                    <g id="computer" transform="translate(16.000000, 12.000000)">
+                                        <path d="M0,18.3311336 L34,18.3311336" id="Line-3" stroke="#2A969D" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <circle id="Oval" fill="#2A969D" fill-rule="nonzero" cx="17.56" cy="22.06" r="1.06"></circle>
+                                        <path d="M17.56,25.1333333 L17.5646853,28.4587933" id="Line-4" stroke="#2A969D" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M9.32692308,28.8810156 L26.4252668,28.8810156" id="Line-5" stroke="#2A969D" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M10.3415497,0 L29.29845,2.23228843e-14 C31.8950444,1.72334195e-14 34,2.10495563 34,4.70155 L34,20.4317833 C34,23.0283777 31.8950444,25.1333333 29.29845,25.1333333 L4.70155,25.1333333 C2.10495563,25.1333333 3.17991098e-16,23.0283777 0,20.4317833 L3.55271368e-15,12.4995372" id="Rectangle" stroke="#2A969D" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+                                    </g>
+                                    <polygon id="Shape" fill="#2A969D" fill-rule="nonzero" points="34.1967905 16 32.8032095 16 32.8032095 20.8032095 28 20.8032095 28 22.1967905 32.8032095 22.1967905 32.8032095 27 34.1967905 27 34.1967905 22.1967905 39 22.1967905 39 20.8032095 34.1967905 20.8032095"></polygon>
+                                    <path d="M22.0142857,8.30555556 C19.6595238,0.456349206 16.2642857,-1.36904762 8.41507937,0.985714286 C0.565873016,3.34047619 -1.25952381,6.73571429 1.0952381,14.5849206 C3.45,22.434127 6.8452381,24.2595238 14.6944444,21.9047619 C22.5436508,19.55 24.3690476,16.1547619 22.0142857,8.30555556 Z" id="Path" stroke="#2A969D" fill-rule="nonzero"></path>
+                                    <g id="slack-icon" transform="translate(11.387301, 11.863770) rotate(-18.000000) translate(-11.387301, -11.863770) translate(5.387301, 5.363770)" stroke="#2A969D" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                        <path d="M3.496,0.33025641 L3.496,12.1744134" id="Line-6"></path>
+                                        <path d="M0.46,3.32941449 L11.96,3.32941449" id="Line-7"></path>
+                                        <path d="M0.46,8.84941449 L11.96,8.84941449" id="Line-7-Copy"></path>
+                                        <path d="M9.32412698,0.33025641 L9.32412698,12.1744134" id="Line-6-Copy"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

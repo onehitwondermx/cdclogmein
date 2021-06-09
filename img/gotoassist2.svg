@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="50px" viewBox="0 0 67 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>web-console_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="-2.72707897e-16 3.55567715 23.9632313 3.73296932 23.5337131 7.80285368 25.5043267 11.630879 20.7163257 16.6997547 31.8599586 10.886689 31.9808099 22.4097702 -2.72707897e-16 22.4097702"></polygon>
+    </defs>
+    <g id="RescueAssist-Web-2.0-Temp-Launch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RescueAssist-Web-Mockup-Classic" transform="translate(-200.000000, -1311.000000)">
+            <g id="Homepage">
+                <g id="Module-2" transform="translate(82.000000, 1123.000000)">
+                    <g id="web-console_icon" transform="translate(118.000000, 188.000000)">
+                        <rect id="container" stroke="#FFFFFF" stroke-width="0.5" opacity="0.0115559896" x="0.25" y="0.25" width="66.5" height="49.5"></rect>
+                        <g id="computer" transform="translate(11.000000, 7.000000)">
+                            <path d="M0,24.0201062 L44.1860465,24.0201062" id="Line-3" stroke="#2A969D" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M21.9771508,32.9333333 L21.9771508,37.4655453" id="Line-4" stroke="#2A969D" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M10.6216458,37.4655453 L32.8424756,37.4655453" id="Line-5" stroke="#2A969D" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <rect id="Rectangle" stroke="#2A969D" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" x="0" y="0" width="44.1860465" height="32.9333333" rx="6.72"></rect>
+                            <ellipse id="Oval" fill="#2A969D" fill-rule="nonzero" cx="21.9230769" cy="28.7111111" rx="1" ry="1"></ellipse>
+                        </g>
+                        <g id="browser" transform="translate(16.098390, 8.610336)">
+                            <g id="check" transform="translate(23.097252, 0.000000)" stroke="#2A969D" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M8.28356294,1.91381537 C7.64025848,1.63644552 6.93109797,1.48277805 6.18604651,1.48277805 C3.25765295,1.48277805 0.88372093,3.85671007 0.88372093,6.78510363 C0.88372093,9.71349719 3.25765295,12.0874292 6.18604651,12.0874292 C9.11444007,12.0874292 11.4883721,9.71349719 11.4883721,6.78510363 C11.4883721,6.2882391 11.4200305,5.80733662 11.2922345,5.3512835" id="Path" transform="translate(6.186047, 6.785104) rotate(7.000000) translate(-6.186047, -6.785104) "></path>
+                                <polyline id="Path-2" points="3.53488372 7.06219683 5.46423044 8.86107 9.96273931 4.41860465"></polyline>
+                            </g>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Rectangle"></g>
+                            <rect id="Rectangle" stroke="#2A969D" mask="url(#mask-2)" x="4.05342332" y="5.84391245" width="25.6506749" height="13.3058824" rx="2.016"></rect>
+                            <path d="M4.38625691,9.81450068 L29.3712646,9.81450068" id="Line" stroke="#2A969D" stroke-linecap="square" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-content{
+    color: #ffffff;
+}
+
+.btn, .btn-large, .btn-flat {
+    height: 36px;
+}
