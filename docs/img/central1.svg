@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="50px" viewBox="0 0 51 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>87D2E729-E3A4-41E5-9E05-837FBFAE21FE</title>
+    <defs>
+        <filter x="-7.1%" y="-7.1%" width="114.3%" height="115.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Central-Features-and-Modules" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Central-Features---Home" transform="translate(-361.000000, -1114.000000)">
+            <g id="Block-2" transform="translate(0.000000, 850.000000)">
+                <g id="Group-4" transform="translate(149.000000, 72.000000)">
+                    <g id="Group-34" transform="translate(83.000000, 160.000000)">
+                        <g id="Cards-/-icon---headline---paragraph-" transform="translate(0.500000, 0.000000)">
+                            <g id="LogMeIn-Pro" filter="url(#filter-1)">
+                                <g id="icon-/-lock" transform="translate(129.000000, 32.000000)">
+                                    <path d="M34.9272727,18.9363636 L15.5363636,18.9363636 C15.0342866,18.9363636 14.6272727,19.3433775 14.6272727,19.8454545 L14.6272727,34.9272727 C14.6272727,35.4293498 15.0342866,35.8363636 15.5363636,35.8363636 L34.9272727,35.8363636 C35.4293498,35.8363636 35.8363636,35.4293498 35.8363636,34.9272727 L35.8363636,19.8454545 C35.8363636,19.3433775 35.4293498,18.9363636 34.9272727,18.9363636 Z M34.0181818,20.7545455 L34.0181818,34.0181818 L16.4454545,34.0181818 L16.4454545,20.7545455 L34.0181818,20.7545455 Z" id="Rectangle" fill="#8CC22E" fill-rule="nonzero"></path>
+                                    <path d="M25.2272727,25.4 C25.6934871,25.4 26.0777338,25.7509456 26.1302475,26.2030717 L26.1363636,26.3090909 L26.1363636,30.6181818 C26.1363636,31.1202589 25.7293498,31.5272727 25.2272727,31.5272727 C24.7610583,31.5272727 24.3768117,31.1763271 24.3242979,30.724201 L24.3181818,30.6181818 L24.3181818,26.3090909 C24.3181818,25.8070139 24.7251957,25.4 25.2272727,25.4 Z" id="Path" fill="#8CC22E" fill-rule="nonzero"></path>
+                                    <path d="M25.2272727,10.3181818 C29.223713,10.3181818 32.4774807,13.4979413 32.5966201,17.4655047 L32.6,17.6909091 L32.6,19.8454545 C32.6,20.3475316 32.1929861,20.7545455 31.6909091,20.7545455 C31.2246947,20.7545455 30.840448,20.4035998 30.7879343,19.9514738 L30.7818182,19.8454545 L30.7818182,17.6909091 C30.7818182,14.6232183 28.2949635,12.1363636 25.2272727,12.1363636 C22.2277529,12.1363636 19.783541,14.5139195 19.6763906,17.4872778 L19.6727273,17.6909091 L19.6727273,19.8454545 C19.6727273,20.3475316 19.2657134,20.7545455 18.7636364,20.7545455 C18.297422,20.7545455 17.9131753,20.4035998 17.8606616,19.9514738 L17.8545455,19.8454545 L17.8545455,17.6909091 C17.8545455,13.6190643 21.1554279,10.3181818 25.2272727,10.3181818 Z" id="Path" fill="#8CC22E" fill-rule="nonzero"></path>
+                                    <path d="M25.2272727,22.7909091 C23.8817062,22.7909091 22.7909091,23.8817062 22.7909091,25.2272727 C22.7909091,26.5728392 23.8817062,27.6636364 25.2272727,27.6636364 C26.5728392,27.6636364 27.6636364,26.5728392 27.6636364,25.2272727 C27.6636364,23.8817062 26.5728392,22.7909091 25.2272727,22.7909091 Z M25.2272727,24.9363636 C25.3879374,24.9363636 25.5181818,25.0666081 25.5181818,25.2272727 C25.5181818,25.3879374 25.3879374,25.5181818 25.2272727,25.5181818 C25.0666081,25.5181818 24.9363636,25.3879374 24.9363636,25.2272727 C24.9363636,25.0666081 25.0666081,24.9363636 25.2272727,24.9363636 Z" id="Oval" fill="#8CC22E" fill-rule="nonzero"></path>
+                                    <circle id="Oval" stroke="#45B6F1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="25" cy="25" r="24.0909091"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
